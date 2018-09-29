@@ -1,38 +1,43 @@
+*Need OpenCL to run eeid3
+*https://github.com/darealshinji/vapoursynth-plugins
+
 Source/Output
-ffms2-2.23.1-msvc.7z                    ffms2                               2.23.1      https://github.com/FFMS/ffms2/releases
+1.    ffms2-2.23.1-msvc.7z                    ffms2                               2.23.1      https://github.com/FFMS/ffms2/releases
 
 Resizing and Format Conversion
 vapoursynth-descale-r2-win64.zip        vapoursynth-descale                 r2          https://github.com/Irrational-Encoding-Wizardry/vapoursynth-descale/releases
-fmtconv-r20.zip                         fmtconv                             r20         https://github.com/EleonoreMizo/fmtconv/releases
-tonemap-r2-win64.7z                     vapoursynth-tonemap                 r2          https://github.com/ifb/vapoursynth-tonemap/releases
-Waifu2x-w2xc-r7.7z                      VapourSynth-Waifu2x-w2xc            r7          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Waifu2x-w2xc/releases     Waifu2x-w2xc-models.7z
-Waifu2x-caffe-r9.7z                     VapourSynth-Waifu2x-caffe           r9          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Waifu2x-caffe/releases
+2.  fmtconv-r20.zip                         fmtconv                             r20         https://github.com/EleonoreMizo/fmtconv/releases
+    tonemap-r2-win64.7z                     vapoursynth-tonemap                 r2          https://github.com/ifb/vapoursynth-tonemap/releases
+    Waifu2x-w2xc-r7.7z                      VapourSynth-Waifu2x-w2xc            r7          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Waifu2x-w2xc/releases     Waifu2x-w2xc-models.7z
+    Waifu2x-caffe-r9.7z                     VapourSynth-Waifu2x-caffe           r9          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Waifu2x-caffe/releases
 
 Deinterlacing
-EEDI2-r7.7z                             VapourSynth-EEDI2                   r7          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI2/releases
-EEDI3-r3.7z                             VapourSynth-EEDI3                   r3          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI3/releases
-vapoursynth-nnedi3-v11-win64.7z         vapoursynth-nnedi3                  v11         https://github.com/dubhater/vapoursynth-nnedi3/releases                             nnedi3_weights.bin
-NNEDI3CL-r7.7z                          VapourSynth-NNEDI3CL                r7          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-NNEDI3CL/releases
-libsangnom r40 win64.7z                 VapourSynth-SangNom                 r40         https://bitbucket.org/James1201/vapoursynth-sangnom/downloads/
-TDeintMod-r10.7z                        VapourSynth-TDeintMod               r10         https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TDeintMod/releases
-W3FDIF-r1.7z                            VapourSynth-W3FDIF                  r1          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-W3FDIF/releases
-Yadifmod-r10.7z                         VapourSynth-Yadifmod                r10         https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Yadifmod/releases
-znedi3_r1.7z                            znedi3                              r1          https://github.com/sekrit-twc/znedi3/releases
+6.    EEDI2-r7.7z                             VapourSynth-EEDI2                   r7          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI2/releases
+5.  EEDI3-r3.7z                             VapourSynth-EEDI3                   r3          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI3/releases
+6.    vapoursynth-nnedi3-v11-win64.7z         vapoursynth-nnedi3                  v11         https://github.com/dubhater/vapoursynth-nnedi3/releases                             nnedi3_weights.bin
+6.    NNEDI3CL-r7.7z                          VapourSynth-NNEDI3CL                r7          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-NNEDI3CL/releases
+    libsangnom r40 win64.7z                 VapourSynth-SangNom                 r40         https://bitbucket.org/James1201/vapoursynth-sangnom/downloads/
+    TDeintMod-r10.7z                        VapourSynth-TDeintMod               r10         https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TDeintMod/releases
+    W3FDIF-r1.7z                            VapourSynth-W3FDIF                  r1          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-W3FDIF/releases
+    Yadifmod-r10.7z                         VapourSynth-Yadifmod                r10         https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Yadifmod/releases
+4.  znedi3_r1.7z                            znedi3                              r1          https://github.com/sekrit-twc/znedi3/releases
 
 Inverse Telecine
-it_release_v1.2.zip                     VapourSynth-IT                      v1.2        https://github.com/HomeOfVapourSynthEvolution/VapourSynth-IT/releases
+    it_release_v1.2.zip                     VapourSynth-IT                      v1.2        https://github.com/HomeOfVapourSynthEvolution/VapourSynth-IT/releases
 
 Denoising
-Bilateral-r3.7z                         VapourSynth-Bilateral               r3          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Bilateral/releases
-BM3D-r7.7z                              VapourSynth-BM3D                    r7          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-BM3D/releases
-vapoursynth-cnr2-v1-win64.7z            vapoursynth-cnr2                    v1          https://github.com/dubhater/vapoursynth-cnr2/releases
-vapoursynth-degrainmedian-v1-win64.7z   vapoursynth-degrainmedian           v1          https://github.com/dubhater/vapoursynth-degrainmedian/releases
-DFTTest-r4.7z                           VapourSynth-DFTTest                 r4          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DFTTest/releases
-FFT3DFilter-r1.7z                       VapourSynth-FFT3DFilter             r1          https://github.com/myrsloik/VapourSynth-FFT3DFilter/releases
-vapoursynth-fluxsmooth-v2-win64.7z      vapoursynth-fluxsmooth              v2          https://github.com/dubhater/vapoursynth-fluxsmooth/releases
-KNLMeansCL-v1.1.1.zip                   KNLMeansCL                          v1.1.1      https://github.com/Khanattila/KNLMeansCL/releases
-vapoursynth-minideen-v1-win64.7z        vapoursynth-minideen                v1          https://github.com/dubhater/vapoursynth-minideen/releases
-templinearapproximate-r3.7z             VapourSynth-TempLinearApproximate   r3          https://bitbucket.org/mystery_keeper/templinearapproximate-vapoursynth/downloads/
-TTempSmooth-r3.7z                       VapourSynth-TTempSmooth             r3          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TTempSmooth/releases
-VagueDenoiser-r2.7z                     VapourSynth-VagueDenoiser           r2          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-VagueDenoiser/releases
+    Bilateral-r3.7z                         VapourSynth-Bilateral               r3          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Bilateral/releases
+    BM3D-r7.7z                              VapourSynth-BM3D                    r7          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-BM3D/releases
+    vapoursynth-cnr2-v1-win64.7z            vapoursynth-cnr2                    v1          https://github.com/dubhater/vapoursynth-cnr2/releases
+    vapoursynth-degrainmedian-v1-win64.7z   vapoursynth-degrainmedian           v1          https://github.com/dubhater/vapoursynth-degrainmedian/releases
+    DFTTest-r4.7z                           VapourSynth-DFTTest                 r4          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DFTTest/releases
+    FFT3DFilter-r1.7z                       VapourSynth-FFT3DFilter             r1          https://github.com/myrsloik/VapourSynth-FFT3DFilter/releases
+    vapoursynth-fluxsmooth-v2-win64.7z      vapoursynth-fluxsmooth              v2          https://github.com/dubhater/vapoursynth-fluxsmooth/releases
+    KNLMeansCL-v1.1.1.zip                   KNLMeansCL                          v1.1.1      https://github.com/Khanattila/KNLMeansCL/releases
+    vapoursynth-minideen-v1-win64.7z        vapoursynth-minideen                v1          https://github.com/dubhater/vapoursynth-minideen/releases
+    templinearapproximate-r3.7z             VapourSynth-TempLinearApproximate   r3          https://bitbucket.org/mystery_keeper/templinearapproximate-vapoursynth/downloads/
+    TTempSmooth-r3.7z                       VapourSynth-TTempSmooth             r3          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TTempSmooth/releases
+    VagueDenoiser-r2.7z                     VapourSynth-VagueDenoiser           r2          https://github.com/HomeOfVapourSynthEvolution/VapourSynth-VagueDenoiser/releases
      
+Others
+3.  vapoursynth-mvtools-v20-win64.7z        vapoursynth-mvtools                 v20         https://github.com/dubhater/vapoursynth-mvtools/releases
